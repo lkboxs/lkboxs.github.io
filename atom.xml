@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lkboxs.github.io/</id>
     <title>滴答滴答</title>
-    <updated>2020-09-08T23:34:18.380Z</updated>
+    <updated>2020-09-15T03:58:54.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lkboxs.github.io/"/>
     <link rel="self" href="https://lkboxs.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://lkboxs.github.io/images/avatar.png</logo>
     <icon>https://lkboxs.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 滴答滴答</rights>
+    <entry>
+        <title type="html"><![CDATA[卿似初春蜜，蝶蝇皆可依。]]></title>
+        <id>https://lkboxs.github.io/post/qing-si-chu-chun-mi-die-ying-jie-ke-yi/</id>
+        <link href="https://lkboxs.github.io/post/qing-si-chu-chun-mi-die-ying-jie-ke-yi/">
+        </link>
+        <updated>2020-09-15T03:56:40.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[霞]]></title>
         <id>https://lkboxs.github.io/post/xia/</id>
@@ -96,28 +103,6 @@ M站：http://bimibimi.me/<br>
 樱花动漫：http://www.imomoe.in/<br>
 zzz动漫网：http://www.zzzfun.com/<br>
 酷比追番 ：https://d.hei521.cn/</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😘剪辑网站]]></title>
-        <id>https://lkboxs.github.io/post/jian-ji-wang-zhan/</id>
-        <link href="https://lkboxs.github.io/post/jian-ji-wang-zhan/">
-        </link>
-        <updated>2020-03-28T02:53:17.000Z</updated>
-        <content type="html"><![CDATA[<p>📩电影索引：<br>
-1、MVCAT：http://www.mvcat.com/<br>
-2、豆瓣电影：https://movie.douban.com/<br>
-📩影视下载：<br>
-1、片源网：http://pianyuan.la/<br>
-2、电影巴士：https://www.dy8c.com/<br>
-📩字幕下载：<br>
-1、伪射手：https://assrt.net/<br>
-2、字幕库：http://www.zimuku.la/<br>
-📩预告片下载：<br>
-1.https://www.yugaopian.cn/<br>
-2.http://www.hd-trailers.net/<br>
-📩播放器：<br>
-potplayer安装包：https://www.lanzous.com/ialqtbc</p>
 ]]></content>
     </entry>
 </feed>
