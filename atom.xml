@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lkboxs.github.io/</id>
     <title>滴答滴答</title>
-    <updated>2020-09-15T03:58:54.810Z</updated>
+    <updated>2020-09-18T04:52:10.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lkboxs.github.io/"/>
     <link rel="self" href="https://lkboxs.github.io/atom.xml"/>
@@ -10,6 +10,22 @@
     <logo>https://lkboxs.github.io/images/avatar.png</logo>
     <icon>https://lkboxs.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 滴答滴答</rights>
+    <entry>
+        <title type="html"><![CDATA[除去素材智能填充]]></title>
+        <id>https://lkboxs.github.io/post/chu-qu-su-cai-zhi-neng-tian-chong/</id>
+        <link href="https://lkboxs.github.io/post/chu-qu-su-cai-zhi-neng-tian-chong/">
+        </link>
+        <updated>2020-09-18T04:43:23.000Z</updated>
+        <summary type="html"><![CDATA[<p>用于一寸照片或其他图片素材，去除不需要部分！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>用于一寸照片或其他图片素材，去除不需要部分！</p>
+<!-- more -->
+<p>1.导入图片<br>
+2.套索要去除区域<br>
+3.状态栏【编辑】<br>
+4.选择【填充】，选择【智能填充】</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[卿似初春蜜，蝶蝇皆可依。]]></title>
         <id>https://lkboxs.github.io/post/qing-si-chu-chun-mi-die-ying-jie-ke-yi/</id>
@@ -87,22 +103,6 @@
         </link>
         <updated>2020-07-03T16:48:33.000Z</updated>
         <content type="html"><![CDATA[<p>的撒发生大法师</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😆在线动漫观看]]></title>
-        <id>https://lkboxs.github.io/post/zai-xian-dong-man-guan-kan/</id>
-        <link href="https://lkboxs.github.io/post/zai-xian-dong-man-guan-kan/">
-        </link>
-        <updated>2020-04-11T03:46:10.000Z</updated>
-        <content type="html"><![CDATA[<p>clicli ：https://clicli.me <br>
-halihali： https://halihali.li<br>
-番组计划： https://anime.srsg.moe<br>
-qinmei :https://www.qinmei.video <br>
-M站：http://bimibimi.me/<br>
-樱花动漫：http://www.imomoe.in/<br>
-zzz动漫网：http://www.zzzfun.com/<br>
-酷比追番 ：https://d.hei521.cn/</p>
 ]]></content>
     </entry>
 </feed>
