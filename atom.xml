@@ -2,14 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lkboxs.github.io/</id>
     <title>滴答滴答</title>
-    <updated>2020-10-17T12:00:43.345Z</updated>
+    <updated>2021-04-01T00:37:24.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lkboxs.github.io/"/>
     <link rel="self" href="https://lkboxs.github.io/atom.xml"/>
     <subtitle>记录生活，记录美！</subtitle>
     <logo>https://lkboxs.github.io/images/avatar.png</logo>
     <icon>https://lkboxs.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 滴答滴答</rights>
+    <rights>All rights reserved 2021, 滴答滴答</rights>
+    <entry>
+        <title type="html"><![CDATA[名为虚，智者不计毁誉；利为上，愚者惟求良善。 ——《罗织经》]]></title>
+        <id>https://lkboxs.github.io/post/CMoz-wOCk/</id>
+        <link href="https://lkboxs.github.io/post/CMoz-wOCk/">
+        </link>
+        <updated>2021-04-01T00:30:31.000Z</updated>
+        <content type="html"><![CDATA[<p>名为虚，智者不计毁誉；利为上，愚者惟求良善。 ——《罗织经》<br>
+<img src="https://lkboxs.github.io//post-images/1617237354076.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[塔]]></title>
         <id>https://lkboxs.github.io/post/6H_gOrrON/</id>
@@ -109,15 +119,6 @@
         </link>
         <updated>2020-09-08T04:11:38.000Z</updated>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://lkboxs.github.io//post-images/1599542471741.jpg" alt="" loading="lazy"></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[虹]]></title>
-        <id>https://lkboxs.github.io/post/hong/</id>
-        <link href="https://lkboxs.github.io/post/hong/">
-        </link>
-        <updated>2020-09-08T00:10:51.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://lkboxs.github.io//post-images/1599567525895.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
